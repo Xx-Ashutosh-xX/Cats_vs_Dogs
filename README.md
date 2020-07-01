@@ -6,6 +6,7 @@ The architecture of the model has 2 blocks for feature extraction in which each 
 2) BatchNormalizing Layer
 3) Pooling Layer
 4) Dropout Layer
+
 Following which is a 64 Neuron Fully Connected layer with 2 output Neurons
 
 ## Compilation
